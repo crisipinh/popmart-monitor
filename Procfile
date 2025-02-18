@@ -1,0 +1,1 @@
+worker: python popmart_monitor.py
